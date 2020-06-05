@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cw7wToDdSmuXSSlGNML6R10z+vjUKE2qgpVB8LiZ+PA51RvKIPqMaWt7VlJwKpkRQNNrfQGhTGJpYt1RQqbxeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ae1\\source\\repos\\PXA_Demo\\PXA_Demo\\PXA_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ae1\\.nuget\\packages\\opentap\\9.7.0\\opentap.9.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

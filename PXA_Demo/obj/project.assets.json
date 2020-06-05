@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.2": {
+      "OpenTAP/9.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/net461/OpenTap.dll": {}
+        },
+        "runtime": {
+          "lib/net461/OpenTap.dll": {}
+        },
+        "build": {
+          "build/OpenTap.props": {},
+          "build/OpenTap.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpenTAP/9.7.0": {
+      "sha512": "L1ar1NNitraIywJ6jM1eDEW+BZG7VMJOdn0SgdBQEpHiknEsTLryXAvXlem/HI3VhpLCD2xaFU4avVTvGJi7uA==",
+      "type": "package",
+      "path": "opentap/9.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Keysight.OpenTap.Sdk.MSBuild.dll",
+        "build/OpenTap.props",
+        "build/OpenTap.targets",
+        "build/payload/Dependencies/DotNet.Glob.3.0.1.0/DotNet.Glob.dll",
+        "build/payload/Dependencies/DotNet.Glob.3.0.1.0/LICENSE.txt",
+        "build/payload/Dependencies/LibGit2Sharp.0.25.0.0/LICENSE.txt",
+        "build/payload/Dependencies/LibGit2Sharp.0.25.0.0/LibGit2Sharp.dll",
+        "build/payload/Dependencies/LibGit2Sharp.0.25.0.0/git2-4aecb64.dll",
+        "build/payload/Dependencies/LibGit2Sharp.0.25.0.0/libgit2-4aecb64.so.linux-x64",
+        "build/payload/Dependencies/LibGit2Sharp.0.25.0.0/libgit2-4aecb64.so.redhat",
+        "build/payload/Dependencies/LibGit2Sharp.0.25.0.0/libgit2-4aecb64.so.ubuntu",
+        "build/payload/Dependencies/Microsoft.CSharp.4.0.4.0/LICENSE.txt",
+        "build/payload/Dependencies/Mono.Cecil.0.10.1.0/LICENSE.txt",
+        "build/payload/Dependencies/Mono.Cecil.0.10.1.0/Mono.Cecil.dll",
+        "build/payload/Dependencies/Newtonsoft.Json.12.0.0.0/LICENSE.txt",
+        "build/payload/Dependencies/Newtonsoft.Json.12.0.0.0/Newtonsoft.Json.dll",
+        "build/payload/Dependencies/System.Collections.4.0.11.0/LICENSE.txt",
+        "build/payload/Dependencies/System.Collections.Immutable.1.2.3.0/LICENSE.txt",
+        "build/payload/Dependencies/System.Collections.Immutable.1.2.3.0/System.Collections.Immutable.dll",
+        "build/payload/Dependencies/System.IO.4.1.2.0/LICENSE.txt",
+        "build/payload/Dependencies/System.IO.Compression.4.2.0.0/System.IO.Compression.dll",
+        "build/payload/Dependencies/System.Linq.4.1.2.0/LICENSE.txt",
+        "build/payload/Dependencies/System.Net.Http.4.2.0.0/System.Net.Http.dll",
+        "build/payload/Dependencies/System.Reflection.Metadata.1.4.3.0/LICENSE.txt",
+        "build/payload/Dependencies/System.Reflection.Metadata.1.4.3.0/System.Reflection.Metadata.dll",
+        "build/payload/Dependencies/System.Runtime.4.1.2.0/LICENSE.txt",
+        "build/payload/Dependencies/System.Runtime.Extensions.4.1.2.0/LICENSE.txt",
+        "build/payload/Dependencies/System.Runtime.InteropServices.RuntimeInformation.4.0.2.0/System.Runtime.InteropServices.RuntimeInformation.dll",
+        "build/payload/Dependencies/System.ValueTuple.4.0.3.0/LICENSE.txt",
+        "build/payload/Dependencies/System.ValueTuple.4.0.3.0/System.ValueTuple.dll",
+        "build/payload/Dependencies/netstandard.2.0.0.0/LICENSE.txt",
+        "build/payload/Dependencies/netstandard.2.0.0.0/netstandard.dll",
+        "build/payload/LICENSE.txt",
+        "build/payload/OpenTap.Package.dll",
+        "build/payload/OpenTap.dll",
+        "build/payload/OpenTapApiReference.chm",
+        "build/payload/Packages/OpenTAP/OpenTap.Cli.dll",
+        "build/payload/Packages/OpenTAP/OpenTap.Plugins.BasicSteps.dll",
+        "build/payload/Packages/OpenTAP/package.xml",
+        "build/payload/tap",
+        "build/payload/tap.dll",
+        "build/payload/tap.exe",
+        "build/payload/tap.runtimeconfig.json",
+        "lib/net461/OpenTap.Package.dll",
+        "lib/net461/OpenTap.dll",
+        "lib/netstandard2.0/OpenTap.Package.dll",
+        "lib/netstandard2.0/OpenTap.dll",
+        "opentap.9.7.0.nupkg.sha512",
+        "opentap.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.2": [
+      "OpenTAP >= 9.7.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ae1\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ae1\\source\\repos\\PXA_Demo\\PXA_Demo\\PXA_Demo.csproj",
+      "projectName": "PXA_Demo",
+      "projectPath": "C:\\Users\\ae1\\source\\repos\\PXA_Demo\\PXA_Demo\\PXA_Demo.csproj",
+      "packagesPath": "C:\\Users\\ae1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ae1\\source\\repos\\PXA_Demo\\PXA_Demo\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ae1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net462"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net462": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net462": {
+        "dependencies": {
+          "OpenTAP": {
+            "target": "Package",
+            "version": "[9.7.0, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
