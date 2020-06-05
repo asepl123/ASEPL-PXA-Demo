@@ -1,0 +1,7 @@
+C:\Users\ae1\source\repos\Output\PXA_Demo\PXA_Demo.dll
+C:\Users\ae1\source\repos\Output\PXA_Demo\PXA_Demo.pdb
+C:\Users\ae1\source\repos\PXA_Demo\PXA_Demo\obj\Debug\PXA_Demo.csprojAssemblyReference.cache
+C:\Users\ae1\source\repos\PXA_Demo\PXA_Demo\obj\Debug\PXA_Demo.csproj.CoreCompileInputs.cache
+C:\Users\ae1\source\repos\PXA_Demo\PXA_Demo\obj\Debug\PXA_Demo.csproj.CopyComplete
+C:\Users\ae1\source\repos\PXA_Demo\PXA_Demo\obj\Debug\PXA_Demo.dll
+C:\Users\ae1\source\repos\PXA_Demo\PXA_Demo\obj\Debug\PXA_Demo.pdb
